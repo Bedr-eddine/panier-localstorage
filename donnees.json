@@ -1,0 +1,20 @@
+
+    {
+        "telephones":[
+            {"id":1, "modele": "Samsung Galaxy Note 10", "prix": 279.99, "img":"gn10.jpg", "qte":0, "prixTotal": 0},
+            {"id":2, "modele": "Honor 9X", "prix": 219.99, "img": "h9x.jpg", "qte":0, "prixTotal": 0},
+            {"id":3, "modele":"Huawei P 30", "prix": 249.99, "img":"hp30.jpg", "qte":0, "prixTotal": 0},
+            {"id":4, "modele":"Huawei P Smart", "prix": 259.99, "img":"hps.jpg", "qte":0, "prixTotal": 0},
+            {"id":5, "modele":"Huawei Y6", "prix":239.99, "img":"hy6.jpg", "qte":0, "prixTotal": 0},
+            {"id":6, "modele":"iPhone 6 128go", "prix": 289.99, "img":"ip5.jpg", "qte":0, "prixTotal": 0},
+            {"id":7, "modele":"iPhone 6 64go", "prix": 269.99, "img":"ip6.jpg", "qte":0, "prixTotal": 0},
+            {"id":8, "modele":"iPhone 7", "prix": 299.99, "img":"ip7.jpg", "qte":0, "prixTotal": 0},
+            {"id":9, "modele":"iPhone 8", "prix": 329.99, "img":"ip8.jpg", "qte":0, "prixTotal": 0},
+            {"id":10, "modele":"Samsung Galaxy S6", "prix": 239.99, "img":"S6.jpg", "qte":0, "prixTotal": 0},
+            {"id":11, "modele":"Samsung Galaxy S7 Edge", "prix":279.99, "img":"s7e.jpg", "qte":0, "prixTotal": 0},
+            {"id":12, "modele":"Xperia E3", "prix": 119.99, "img":"xe.jpg", "qte":0, "prixTotal": 0}
+        ]
+    }
+    
+    
+    
